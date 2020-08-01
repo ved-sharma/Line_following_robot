@@ -14,7 +14,10 @@ Following are a series of videos describing the robot evolution while I implemen
 <img src="https://github.com/ved-sharma/line-following-robot/tree/master/Data/MVI_2247_v2.avi" alt="Version 1">
 
 MP4
-<img src="https://github.com/ved-sharma/line-following-robot/tree/master/Data/MVI_2247_v2_1600.mp4" alt="Version 1">
+<img src="https://github.com/ved-sharma/line-following-robot/tree/master/Data/MVI_2247_v2_1600.mp4" alt="Version 2">
+
+<img src="https://drive.google.com/file/d/0BwfqpqJa4_wiaDFfeEFybV9sMms/view?usp=sharing" alt="Version 3">
+
 
 #### Version #2: 
 Moved wheels close to the center, which led to better weight distribution and improved robot's agility.
