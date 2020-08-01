@@ -20,7 +20,7 @@ MP4
 
 video
 <video autoplay loop muted playsinline>
-  <source src="https://github.com/ved-sharma/line-following-robot/tree/master/Data/MVI_2247_v2_1600.mp4" type="video/mp4">
+  <source src="MVI_2247_v2_1600.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
