@@ -19,7 +19,7 @@ Following are a series of videos describing the robot evolution while I implemen
 #### Version #2: 
 Moved wheels close to the center, which led to better weight distribution and improved robot's agility.
 
-video2
+[![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1596294463/video_to_markdown/images/youtube--OcGXyv7zUBg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=OcGXyv7zUBg "test")
 
 #### Version #3:
 Implemented a series of changes:
