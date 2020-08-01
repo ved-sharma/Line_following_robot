@@ -1,4 +1,6 @@
-// Ved P. Sharma, May 25, 2013, version 04
+// Ved P. Sharma, May 27, 2013, version 05
+// Using analog pins A1-4 for H-bridge logical inputs
+
 // Line following with 3 sensors, Robot follows black line, stops at 
 // the end, turns 180 deg and follows the same line back again
 
@@ -10,13 +12,13 @@
 QTRSensorsRC qtrrc((unsigned char[]) {2, 3, 4}, NUM_SENSORS, TIMEOUT, EMITTER_PIN);
 unsigned int sensors[NUM_SENSORS];
 
-const int m1Pin1 = 5;  const int m1Pin2 = 6;
-const int m2Pin1 = 7;  const int m2Pin2 = 8;
-const int m1enablePin = 0;  const int m2enablePin = 1;
+const int m1Pin1 = A1;  const int m1Pin2 = A2;
+const int m2Pin1 = A3;  const int m2Pin2 = A4;
+const int m1enablePin = 5;  const int m2enablePin = 6;
 unsigned int a=0, b=0, c=0, i=0;
 //unsigned int minSen0=440, minSen1=768, minSen2=816, maxSen0=880, maxSen1=1676, maxSen2=1804;
 unsigned int minSen0=360, minSen1=652, minSen2=712, maxSen0=832, maxSen1=1704, maxSen2=1816;
-unsigned int wheelSpeed = 150, turnSpeed = 150, lower = 300, upper = 800;
+unsigned int wheelSpeed = 200, turnSpeed = 100, lower = 300, upper = 800;
 
 void setup() {
   Serial.begin(9600);
