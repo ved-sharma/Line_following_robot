@@ -18,11 +18,11 @@ MP4
 
 <img src="https://drive.google.com/file/d/0BwfqpqJa4_wiaDFfeEFybV9sMms/view?usp=sharing" alt="Version 3">
 
-video
-<video autoplay loop muted playsinline>
-  <source src="/Data/MVI_2247_v2_1600.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="Data/poster_image.png">
+    <source src="Data/MVI_2247_v2_1600.mp4" type="video/mp4">
+  </video>
+</figure>
 
 #### Version #2: 
 Moved wheels close to the center, which led to better weight distribution and improved robot's agility.
