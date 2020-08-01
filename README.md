@@ -11,8 +11,10 @@ Light-dependent resistor (LDR) embedded in the top platform to detect when the u
 Following are a series of videos describing the robot evolution while I implemented and optimized different features:
 
 #### Version #1:
-<img src="https://github.com/ved-sharma/HyperStackReg/blob/master/Data/Example_hyperstack-before_and_after.gif" alt="Version 1">
+<img src="https://github.com/ved-sharma/line-following-robot/tree/master/Data/MVI_2247_v2.avi" alt="Version 1">
 
+MP4
+<img src="https://github.com/ved-sharma/line-following-robot/tree/master/Data/MVI_2247_v2_1600.mp4" alt="Version 1">
 
 #### Version #2: 
 Moved wheels close to the center, which led to better weight distribution and improved robot's agility.
