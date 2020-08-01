@@ -11,21 +11,13 @@ Light-dependent resistor (LDR) embedded in the top platform to detect when the u
 Following are a series of videos describing the robot evolution while I implemented and optimized different features:
 
 #### Version #1:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=OcGXyv7zUBg" target="_blank">
- <img src="http://img.youtube.com/vi/OcGXyv7zUBg/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
-</a>
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7gEEXGK_PbU" target="_blank">
  <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1596294950/video_to_markdown/images/youtube--7gEEXGK_PbU-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
 </a>
 
-[![Line following Robot, version 01](https://res.cloudinary.com/marcomontalbano/image/upload/v1596294950/video_to_markdown/images/youtube--7gEEXGK_PbU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7gEEXGK_PbU "Line following Robot, version 01")
-
 #### Version #2: 
 Moved wheels close to the center, which led to better weight distribution and improved robot's agility.
 
-[![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1596294463/video_to_markdown/images/youtube--OcGXyv7zUBg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=OcGXyv7zUBg "test")
 
 #### Version #3:
 Implemented a series of changes:
