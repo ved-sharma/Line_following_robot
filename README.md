@@ -12,11 +12,9 @@ Following are a series of videos describing the robot evolution while I implemen
 
 #### Version #1:
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/0BwfqpqJa4_wiaDFfeEFybV9sMms/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-<!--  <iframe src="https://drive.google.com/file/d/0BwfqpqJa4_wiaDFfeEFybV9sMms/preview" width="640" height="480"></iframe> </iframe> -->
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=OcGXyv7zUBg" target="_blank">
+ <img src="http://img.youtube.com/vi/OcGXyv7zUBg/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+</a>
 
 #### Version #2: 
 Moved wheels close to the center, which led to better weight distribution and improved robot's agility.
