@@ -3,7 +3,7 @@ I made this line following robot from scratch using DIY components and open-sour
 
 The whole project took around 5-6 months (few mins/hours here and there at nights/weekends), where I researched various aspects of robot design - mechanical engineering, electronics and computer programming. I chose Arduino microcontroller for the brain of the robot, since it's an open-source platform with tons of resources available online, mainly on YouTube. The most challenging part for me was the physical design of the robot itself, with the constrains on weight distribution of different parts, power management and robot stability.
 
-Robot utilizes three sensors:
+Robot utilizes three kinds of sensors:
 
 1. An array of 3 reflectance sensors on the underside of bottom robotic platform to detect and follow the black sticy tape.
 2. An ultrasonic sensor mounted on a servo motor at the front to detect and avoid collision with any passing object, e.g. a moving person.
