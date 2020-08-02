@@ -44,4 +44,4 @@ Robot is working as expected. If a person comes in the way, robot stops and wait
 </a>
 
 ### Code
-[Here is the code](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) which runs the final version of the robot.
+[Here is the code](https://github.com/ved-sharma/line-following-robot/blob/master/Line_tracking.ino) which runs the final version of the robot.
