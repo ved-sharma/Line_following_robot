@@ -1,16 +1,19 @@
 # Autonomous Line-following Robot
-Other than writing code, I enjoy building things as a hobby. I made a line following robot using DIY components and open-source Arduino platform. The purpose of this robot was to transport stuff between two users back and forth. Robot moves from point A to point B along a line defined by the black sticky tape on the floor, while avoiding collision with a passing object (e.g. a person) in its way. When reaching the end, robot stops and waits for the user to pick up the stuff (a basket with things in it). Once user replaces the basket back on the robot, it turns back and moves towards the other end.
+I made this line following robot from scratch using DIY components and open-source Arduino platform. This robot transports stuff between two users (defined by point A and point B) back and forth. Robot carries the stuff in a basket and moves from point A to point B along a line defined by the black sticky tape on the floor, while avoiding collision with any passing object (e.g. a person) in its way. After it reaches the end (point A or B), robot stops and waits for the user to pick the basket up. Once user puts the basket back on robot, it turns back and moves towards the other end.
 
-The whole project took around 5-6 months (few mins/hours here and there at night and weekends), where I taught myself various aspects of robot design - mechanical engineering, electronics and computer programming. I chose Arduino microcontroller for the brain of the robot, since it's an open-source platform with tons of resources available online and YouTube videos. The most challenging part in this project for me was the physical design of the robot itself, with the constrains on weight distribution, power management and its stability.
+The whole project took around 5-6 months (few mins/hours here and there at nights/weekends), where I researched various aspects of robot design - mechanical engineering, electronics and computer programming. I chose Arduino microcontroller for the brain of the robot, since it's an open-source platform with tons of resources available online, mainly on YouTube. The most challenging part for me was the physical design of the robot itself, with the constrains on weight distribution of different parts, power management and robot stability.
 
-I utilized three sensors in the robot:
+Robot utilizes three sensors:
 
-An array of 3 reflectance sensors on the underside of the robotic platform to detect and follow the line.
-An ultrasonic sensor mounted on a servo motor at the front to detect and avoid collision with an object - a moving person.
-Light-dependent resistor (LDR) embedded in the top platform to detect when the user lifts the basket off and puts it back, signaling that robot needs to turn back and move towards the other end.
-Following are a series of videos describing the robot evolution while I implemented and optimized different features:
+1. An array of 3 reflectance sensors on the underside of bottom robotic platform to detect and follow the black sticy tape.
+2. An ultrasonic sensor mounted on a servo motor at the front to detect and avoid collision with any passing object, e.g. a moving person.
+3. Light-dependent resistor (LDR) embedded in the top platform to detect when the user lifts the basket off and puts it back, signaling that robot needs to turn back and move towards the other end.
+
+Following are a series of videos describing the evolution of this robot, while I implemented and optimized different features:
 
 #### Version #1:
+First try, got the robot base moving and following the line.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7gEEXGK_PbU" target="_blank">
  <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1596294950/video_to_markdown/images/youtube--7gEEXGK_PbU-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Line following Robot, version 01" width="240" height="180" border="10" />
 </a>
