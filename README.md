@@ -40,6 +40,5 @@ Added following features:
 Robot is working as expected. If a person comes in the way, robot stops and waits until the path is cleared. Robot stops at the end of the line (T intersection), waits for the user to pick up the basket. When user puts the basket back on the platform, robot turns back and starts moving towards the other end.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=npnqdeAV6AY" target="_blank">
- <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1596335773/video_to_markdown/images/youtube--npnqdeAV6AY-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Line following Robot, version 04" width="240" height="180" border="10" />
+ <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1596337079/video_to_markdown/images/youtube--npnqdeAV6AY-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Line following Robot, version 04" width="240" height="180" border="10" />
 </a>
-
