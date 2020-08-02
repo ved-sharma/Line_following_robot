@@ -36,9 +36,8 @@ Implemented a series of changes:
 </a>
 
 #### Version #4 (Final design):
-Added following features:
-1. Added the four legs and top platform; embedded the LDR sensor into the top platform, which senses the basket movement.
-2. Got all three sensors (LDR  sensor at the top, ultrasonic object avoidance sensor at the front and reflectance sensors at the bottom) to work together in the code.
+1. Added four legs and the top platform; embedded LDR sensor into the top platform, which senses basket movement on and off of the robot.
+2. Worked on the code so that all three sensors (LDR  sensor at the top, ultrasonic object avoidance sensor at the front and reflectance sensors at the bottom) are working together.
 
 Robot is working as expected. If a person comes in the way, robot stops and waits until the path is cleared. Robot stops at the end of the line (T intersection), waits for the user to pick up the basket. When user puts the basket back on the platform, robot turns back and starts moving towards the other end.
 
