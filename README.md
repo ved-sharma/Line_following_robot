@@ -12,12 +12,14 @@ Following are a series of videos describing the robot evolution while I implemen
 
 #### Version #1:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7gEEXGK_PbU" target="_blank">
- <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1596294950/video_to_markdown/images/youtube--7gEEXGK_PbU-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+ <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1596294950/video_to_markdown/images/youtube--7gEEXGK_PbU-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Line following Robot, version 01" width="240" height="180" border="10" />
 </a>
 
 #### Version #2: 
 Moved wheels close to the center, which led to better weight distribution and improved robot's agility.
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8QIpKqybj4Y" target="_blank">
+ <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1596335773/video_to_markdown/images/youtube--8QIpKqybj4Y-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Line following Robot, version 02" width="240" height="180" border="10" />
+</a>
 
 #### Version #3:
 Implemented a series of changes:
