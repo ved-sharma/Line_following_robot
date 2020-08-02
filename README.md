@@ -17,6 +17,7 @@ Following are a series of videos describing the robot evolution while I implemen
 
 #### Version #2: 
 Moved wheels close to the center, which led to better weight distribution and improved robot's agility.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8QIpKqybj4Y" target="_blank">
  <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1596335773/video_to_markdown/images/youtube--8QIpKqybj4Y-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Line following Robot, version 02" width="240" height="180" border="10" />
 </a>
@@ -27,7 +28,9 @@ Implemented a series of changes:
 2. Refined sensors and the code for the robot to follow a thinner line.
 3. Added code for the robot to stop at the "T" intersection.
 
-video3
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9Ct8vHiWc-Q" target="_blank">
+ <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1596336902/video_to_markdown/images/youtube--9Ct8vHiWc-Q-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Line following Robot, version 03" width="240" height="180" border="10" />
+</a>
 
 #### Version #4 (Final design):
 Added following features:
@@ -36,5 +39,7 @@ Added following features:
 
 Robot is working as expected. If a person comes in the way, robot stops and waits until the path is cleared. Robot stops at the end of the line (T intersection), waits for the user to pick up the basket. When user puts the basket back on the platform, robot turns back and starts moving towards the other end.
 
-Video4
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=npnqdeAV6AY" target="_blank">
+ <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1596335773/video_to_markdown/images/youtube--npnqdeAV6AY-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Line following Robot, version 04" width="240" height="180" border="10" />
+</a>
 
